@@ -1,4 +1,4 @@
 """
-Esto es un Hola mundo (con una JoJoReferencia)
+Esto es un Hola mundo. 
 """
-print("Hello Za Warudo")
+print("Hola mundo")
